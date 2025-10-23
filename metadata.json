@@ -1,0 +1,5 @@
+{
+  "name": "Cincinnati Hotel AI Chatbot",
+  "description": "A chatbot system for the Cincinnati Hotel, allowing admins to upload hotel information via PDF and users to chat with an AI assistant based on that information.",
+  "requestFramePermissions": []
+}
